@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+biopython
+rdkit
+umap-learn
+scikit-learn
+tqdm
+openmm
+pdbfixer
+chembl_webresource_client

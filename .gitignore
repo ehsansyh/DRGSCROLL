@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+figs/
+results/
+chi_results/
+*.dcd
+*.xtc
+*.pdbqt
+smiles_cache.csv
+.DS_Store
+Best_complex/
+clusters/
+clustered_files/

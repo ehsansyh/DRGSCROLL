@@ -1,0 +1,20 @@
+name: drgscroll
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - biopython
+  - openmm
+  - pdbfixer
+  - openbabel
+  - rdkit
+  - scikit-learn
+  - tqdm
+  - pip
+  - pip:
+      - umap-learn
+      - chembl_webresource_client
